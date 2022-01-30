@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xaed
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning how to use data structures
+- 👀 I’m interested in Web development and machine learning
+- 🌱 I’m currently learning how to work with data structures
 - 💞️ I’m looking to collaborate on integration of different apps
 - 📫 How to reach me: discord: @plastic#9381
 
